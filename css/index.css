@@ -281,6 +281,31 @@ a{
 .about{
     width:770px;
     margin:auto;
-    padding-bottom: 25px;
+    padding-bottom: 10px;
+    padding-top: 15px;
 }
+.strategy-work{
+    width:770px;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.top2{
+    width:48%;
+}
+.top2text{
+    border: red 1px solid;
+    width:770px;
+    margin:auto;
+   
+    
 
+}
+.ptext{
+    border:green 1px solid;
+    width:250px;
+    display: flex;
+    flex-direction: row;
+
+}
