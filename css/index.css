@@ -263,3 +263,24 @@ a{
     align-items: center;
     justify-content: center;
 }
+/* CSS BELOW IS FOR ABOUT PAGE */
+
+.nav-container2{
+    width:800px;
+    margin:auto;
+    padding-right: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.city{
+    padding-top:40px;
+}
+
+.about{
+    width:770px;
+    margin:auto;
+    padding-bottom: 25px;
+}
+
